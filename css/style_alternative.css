@@ -1,11 +1,13 @@
 body {
     font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f8f8;
   }
   header {
     position: relative;
     top: 0;
     left: 0;
-    background-color: #4ea0ff;
+    background-color: #ff9e4e;
     height: 140px;
     margin-left: -15px;
     margin-right: -15px;
@@ -15,7 +17,7 @@ body {
   }
   
   main {
-      width: 65%;
+      width: 75%;
       margin: 0 auto;
   }
   #logo {
@@ -34,7 +36,7 @@ body {
   }
   
   a {
-    color: #34b1e7;
+    color: #e75834;
     text-decoration: none;
   }
   .photo-space {
@@ -53,9 +55,12 @@ body {
   ul {
       padding-inline-start: 20px;
   }
+  li::marker {
+    color: #e75834;
+  }
   
   .evidenziato {
-    background-color: yellow;
+    background-color: rgb(255, 196, 0);
   }
   
   table {
@@ -64,12 +69,12 @@ body {
   }
   
   thead {
-    background-color: #4ea0ff;
+    background-color: #ff4e4e;
     color: white;
   }
   
   .alternative-table {
-    background-color: #b1e5f2;
+    background-color: #f2d0b1;
   }
   
   th,
