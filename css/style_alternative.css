@@ -77,9 +77,8 @@ body {
     background-color: #f2d0b1;
   }
   
-  th,
-  td {
-    width: 33%;
+  #large-col {
+    width: 50%
   }
   
   h4 {
