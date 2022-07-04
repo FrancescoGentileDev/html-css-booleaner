@@ -1,3 +1,4 @@
+
 header {
   background-color: #4ea0ff;
   height: 140px;
@@ -8,10 +9,9 @@ header {
 }
 
 #logo {
-    height: 3rem;
-    position: absolute;
-    top: 80px;
-    margin-left: 20px;
+    height: 5rem;
+    margin-top : 50px;
+    margin-left: 10px;
 }
 
 h1 {
@@ -26,4 +26,12 @@ h2 {
 a {
     color: #34b1e7;
     text-decoration: none;
+}
+.photo-space {
+    text-align: center;
+}
+.foto {
+    height: 500px;
+    width: 49%;
+
 }
