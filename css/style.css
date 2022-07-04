@@ -68,3 +68,16 @@ h4{
     font-weight: 900;
     color: grey
 }
+
+.container-image {
+    position: relative;
+    color: white;
+  }
+
+.text-image {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: white;
+    font-size: 2rem;
+}
