@@ -46,6 +46,10 @@ a {
   width: 49%;
 }
 
+ul {
+    padding-inline-start: 20px;
+}
+
 .evidenziato {
   background-color: yellow;
 }
