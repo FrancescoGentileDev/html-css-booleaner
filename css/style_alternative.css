@@ -1,0 +1,97 @@
+body {
+    font-size: 20px;
+  }
+  header {
+    position: relative;
+    top: 0;
+    left: 0;
+    background-color: #4ea0ff;
+    height: 140px;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: -15px;
+    background-image: url("../img/pattern.png");
+    background-size: 40% 200%;
+  }
+  
+  main {
+      width: 65%;
+      margin: 0 auto;
+  }
+  #logo {
+    height: 5rem;
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  
+  h1 {
+    font-size: 3.5rem;
+  }
+  
+  h3 {
+    color: grey;
+    margin-top: -40px;
+  }
+  
+  a {
+    color: #34b1e7;
+    text-decoration: none;
+  }
+  .photo-space {
+    text-align: center;
+  }
+  
+  .photo-section {
+    font-size: 0.8rem;
+  }
+  
+  .foto {
+    height: 500px;
+    width: 49%;
+  }
+  
+  ul {
+      padding-inline-start: 20px;
+  }
+  
+  .evidenziato {
+    background-color: yellow;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  thead {
+    background-color: #4ea0ff;
+    color: white;
+  }
+  
+  .alternative-table {
+    background-color: #b1e5f2;
+  }
+  
+  th,
+  td {
+    width: 33%;
+  }
+  
+  h4 {
+    font-weight: 900;
+    color: grey;
+  }
+  
+  .container-image {
+    position: relative;
+    color: white;
+  }
+  
+  .text-image {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: white;
+    font-size: 2rem;
+  }
+  
